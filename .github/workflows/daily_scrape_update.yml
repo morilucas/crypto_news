@@ -1,0 +1,25 @@
+name: Daily Python Script
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs the job every day at midnight UTC
+
+jobs:
+  run-script:
+    name: Run Python Script
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9' # Specify your Python version
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt # If you have any dependencies, specify them in requirements.txt
+
+      - name: Run script
+        run: python main.py
