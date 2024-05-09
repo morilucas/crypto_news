@@ -2,7 +2,7 @@ name: Daily Python Script
 
 on:
   schedule:
-    - cron: '05 19 * * *'
+    - cron: '50 19 * * *'
 
 jobs:
   run_python_script:
@@ -15,7 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.10'
+          python-version: '3.9'
 
       - name: Install Dependencies
         run: |
