@@ -2,7 +2,7 @@ name: Daily Python Script
 
 on:
   schedule:
-    - cron: '45 17 * * *' # Runs every day at 13:00 Eastern Time during Eastern Daylight Time (EDT)
+    - cron: '0 18 * * *' # Runs every day at 13:00 Eastern Time during Eastern Daylight Time (EDT)
 
 jobs:
   run_python_script:
