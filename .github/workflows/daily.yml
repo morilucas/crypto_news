@@ -2,7 +2,7 @@ name: Daily Python Script
 
 on:
   schedule:
-    - cron: '50 19 * * *'
+    - cron: '0 20 * * *'
 
 jobs:
   run_python_script:
@@ -24,3 +24,11 @@ jobs:
 
       - name: Run Python Script
         run: python main.py # Execute the main.py script in the root folder
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.email "lucaskmori@gmail.com"
+          git config --global user.name "morilucas"
+          git add .
+          git commit -m "Update files" || echo "No changes to commit"
+          git push
