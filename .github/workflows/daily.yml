@@ -2,7 +2,7 @@ name: Daily Python Script
 
 on:
   schedule:
-    - cron: '10 18 * * *' # Runs every day at 13:00 Eastern Time during Eastern Daylight Time (EDT)
+    - cron: '55 18 * * *' # Runs every day at 13:00 Eastern Time during Eastern Daylight Time (EDT)
 
 jobs:
   run_python_script:
@@ -10,15 +10,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
-        with:
-          node-version: '20' # Update Node.js version
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
-          python-version: '3.9'
-          node-version: '20' # Update Node.js version
+          python-version: '3.10'
 
       - name: Install Dependencies
         run: |
