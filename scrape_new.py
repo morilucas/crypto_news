@@ -134,7 +134,8 @@ def main(csv_filename='scraped_data.csv', test_csv_filename='test_scraped_data.c
     df.to_csv(filename, index=False)
     
     # Log the number of headlines extracted
-    log_headline_counts(rows_added)
+    log_filename = 'test_headline_counts.csv' if test else 'headline_counts.csv'
+    log_headline_counts(rows_added, log_filename)
     
     print(f"Data saved to {filename}.")
     for source, count in rows_added.items():
