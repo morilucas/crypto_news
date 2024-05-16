@@ -6,6 +6,7 @@ import os
 
 #Global Variables
 now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+today = datetime.now().strftime("%Y-%m-%d")
 
 def fetch_and_parse(url):
     headers = {
@@ -73,14 +74,44 @@ def scrape_beincrypto(data):
                 headline_text = item.get_text().strip() if item else "No headline found"
                 data.append([now, headline_text, url])
 
-def main(csv_filename='scraped_data.csv'):
+def scrape_cryptotimes(data):
+    url = "https://www.cryptotimes.io/category/market-news/"
+    soup = fetch_and_parse(url)
+    if soup:
+        containers = soup.find_all('div', class_='p-wrap p-list p-list-2')
+        unique_headlines = set()  # To store unique headlines
+        for container in containers:
+            headline_elements = container.find_all('h3', class_='entry-title')
+            for headline in headline_elements:
+                headline_text = headline.get_text().strip() if headline else "No headline found"
+                if headline_text not in unique_headlines:  # Check for duplicates
+                    unique_headlines.add(headline_text)
+                    data.append([now, headline_text, url])
+
+def log_headline_counts(rows_added, log_filename='headline_counts.csv'):
+    log_data = []
+    for source, count in rows_added.items():
+        log_data.append([today, source, count])
+    
+    columns = ['date', 'website', 'headline_count']
+    if os.path.isfile(log_filename):
+        df_existing = pd.read_csv(log_filename)
+        df_new = pd.DataFrame(log_data, columns=columns)
+        df = pd.concat([df_existing, df_new], ignore_index=True)
+    else:
+        df = pd.DataFrame(log_data, columns=columns)
+    
+    df.to_csv(log_filename, index=False)
+
+def main(csv_filename='scraped_data.csv', test_csv_filename='test_scraped_data.csv', test=False):
     all_data = []
     websites = [
         ('Decrypt', scrape_decrypt),
         ('Blockworks', scrape_blockworks),
         ('CoinDesk', scrape_coindesk),
         ('U.Today', scrape_u_today),
-        ('BeInCrypto', scrape_beincrypto)
+        ('BeInCrypto', scrape_beincrypto),
+        ('CryptoTimes', scrape_cryptotimes)  # Add CryptoTimes to the list
     ]
     
     rows_added = {}  # Dictionary to store the number of rows added from each website
@@ -93,15 +124,21 @@ def main(csv_filename='scraped_data.csv'):
     columns = ['date_scraped', 'headline', 'source']
     df = pd.DataFrame(all_data, columns=columns)
     
-    if os.path.isfile(csv_filename):
-        df_existing = pd.read_csv(csv_filename)
+    # Choose the appropriate CSV file based on the test flag
+    filename = test_csv_filename if test else csv_filename
+    
+    if os.path.isfile(filename):
+        df_existing = pd.read_csv(filename)
         df = pd.concat([df_existing, df], ignore_index=True)
     
-    df.to_csv(csv_filename, index=False)
+    df.to_csv(filename, index=False)
     
-    print(f"Data saved to {csv_filename}.")
+    # Log the number of headlines extracted
+    log_headline_counts(rows_added)
+    
+    print(f"Data saved to {filename}.")
     for source, count in rows_added.items():
         print(f"Rows added from {source}: {count}")
 
-# Call main
+# Call main for testing
 main()
