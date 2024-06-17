@@ -6681,3 +6681,181 @@ date_scraped,headline,source,TextBlob_sentiment,VADER_sentiment,FinBERT_sentimen
 2024-06-16 01:01:31,Coinbase Lists PIRATE Token from Pirate Nation Game,https://www.cryptotimes.io/category/market-news/,-0.4,0.0,Neutral,coinbase lists pirate token from pirate nation game
 2024-06-16 01:01:31,EBA Issues Guidelines for EU Crypto Token Issuers,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,eba issues guidelines for eu crypto token issuers
 2024-06-16 01:01:31,Biden Announces Nominations for Financial Regulatory Roles,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Positive,biden announces nominations for financial regulatory roles
+2024-06-17 00:59:13,Hamster Kombat Telegram Game Draws Over 150 Million Players,https://decrypt.co/,-0.4,0.0,Neutral,hamster kombat telegram game draws over     million players
+2024-06-17 00:59:13,"The Price of Bitcoin Will Hit $200,000 Next Year, Bernstein Says",https://decrypt.co/,0.0,0.0,Neutral,the price of bitcoin will hit          next year  bernstein says
+2024-06-17 00:59:13,New York Recovers Another $50 Million From Gemini for ‘Swindled’ Earn Investors,https://decrypt.co/,0.13636363636363635,0.0,Neutral,new york recovers another     million from gemini for  swindled  earn investors
+2024-06-17 00:59:13,"Bitcoin Price Drops Nears One-Month Low, Triggering $100 Million in Liquidations In an Hour",https://decrypt.co/,0.0,-0.2732,Neutral,bitcoin price drops nears one month low  triggering      million in liquidations in an hour
+2024-06-17 00:59:13,MicroStrategy Aims to Raise $786 Million to Buy More Bitcoin,https://decrypt.co/,0.5,0.0,Neutral,microstrategy aims to raise      million to buy more bitcoin
+2024-06-17 00:59:13,Riot Platforms Increases Its Stake in Bitfarms to 14%,https://decrypt.co/,0.0,-0.5574,Neutral,riot platforms increases its stake in bitfarms to    
+2024-06-17 00:59:13,Nigeria Drops Tax Charges Against Binance Executives,https://decrypt.co/,0.0,-0.2732,Neutral,nigeria drops tax charges against binance executives
+2024-06-17 00:59:13,"Traders Expect a Further Bitcoin Price Correction, Fueled by Miners Selling and Profit Taking",https://decrypt.co/,0.0,0.4404,Positive,traders expect a further bitcoin price correction  fueled by miners selling and profit taking
+2024-06-17 00:59:13,BIS: 94% of Central Banks Are Considering Issuing a CBDC,https://decrypt.co/,0.0,0.0,Neutral,bis      of central banks are considering issuing a cbdc
+2024-06-17 00:59:13,Bitcoin ETFs See $226 Million in Withdrawals—Almost Half of It From Fidelity's FBTC,https://decrypt.co/,-0.16666666666666666,0.0,Neutral,bitcoin etfs see      million in withdrawals almost half of it from fidelity s fbtc
+2024-06-17 00:59:13,Recently Liquidated Curve Founder Michael Egorov Says He's Still Committed to Building Curve,https://decrypt.co/,0.0,0.2732,Neutral,recently liquidated curve founder michael egorov says he s still committed to building curve
+2024-06-17 00:59:13,Brian Armstrong Emphasizes Bipartisanship When Asked About Donald Trump's Promise to Be 'Crypto President',https://decrypt.co/,0.0,0.3182,Neutral,brian armstrong emphasizes bipartisanship when asked about donald trump s promise to be  crypto president 
+2024-06-17 00:59:13,Bitcoin Miners Are Selling Their Coins Due to Reduced Revenues,https://decrypt.co/,-0.125,0.0,Negative,bitcoin miners are selling their coins due to reduced revenues
+2024-06-17 00:59:13,"DeFi Protocol UwU Lend Faces Second Attack by the Same Hacker, Losing $3.7 Million",https://decrypt.co/,0.0,-0.6908,Negative,defi protocol uwu lend faces second attack by the same hacker  losing      million
+2024-06-17 00:59:13,Crypto Bank Anchorage Digital Adds Former Goldman Sachs Exec to Its Board,https://decrypt.co/,0.0,0.0,Neutral,crypto bank anchorage digital adds former goldman sachs exec to its board
+2024-06-17 00:59:13,Base memecoin Based Brett threatens to flip Solana’s BONK,https://blockworks.co/category/markets,-0.8,-0.3818,Negative,base memecoin based brett threatens to flip solana s bonk
+2024-06-17 00:59:13,"Hotter-than-expected jobs report shows mixed bag, markets dip",https://blockworks.co/category/markets,-0.05,0.0,Negative,hotter than expected jobs report shows mixed bag  markets dip
+2024-06-17 00:59:13,Mt Gox distributions may not be all doom and gloom for bitcoin,https://blockworks.co/category/markets,-0.13333333333333333,-0.3274,Neutral,mt gox distributions may not be all doom and gloom for bitcoin
+2024-06-17 00:59:13,"Ether, bitcoin rally on renewed ETH ETF optimism",https://blockworks.co/category/markets,0.0,0.5423,Positive,ether  bitcoin rally on renewed eth etf optimism
+2024-06-17 00:59:13,Is the SEC’s expected spot ether ETF denial priced in?,https://blockworks.co/category/markets,-0.1,0.0,Neutral,is the sec s expected spot ether etf denial priced in 
+2024-06-17 00:59:13,"Cryptocurrencies rally, stocks trade sideways as traders speculate interest rate decision",https://blockworks.co/category/markets,0.0,0.4588,Neutral,cryptocurrencies rally  stocks trade sideways as traders speculate interest rate decision
+2024-06-17 00:59:13,"Bitcoin is back above $60K, stocks rally on cooler jobs data",https://blockworks.co/category/markets,0.0,0.0,Positive,bitcoin is back above    k  stocks rally on cooler jobs data
+2024-06-17 00:59:13,"Fed holds interest rates, markets hardly react",https://blockworks.co/category/markets,-0.2916666666666667,0.4588,Negative,fed holds interest rates  markets hardly react
+2024-06-17 00:59:13,"Cryptocurrencies, stocks slide ahead of Fed rate decision",https://blockworks.co/category/markets,0.0,0.0,Neutral,cryptocurrencies  stocks slide ahead of fed rate decision
+2024-06-17 00:59:13,"Stocks bounce, cryptocurrencies trade sideways despite disappointing inflation data",https://blockworks.co/category/markets,-0.6,0.3875,Neutral,stocks bounce  cryptocurrencies trade sideways despite disappointing inflation data
+2024-06-17 00:59:13,"Cryptocurrencies, equities slide on slowing economic growth",https://blockworks.co/category/markets,0.2,0.3818,Negative,cryptocurrencies  equities slide on slowing economic growth
+2024-06-17 00:59:13,"BlackRock’s bitcoin ETF inflows halt after 71-day streak, data shows",https://blockworks.co/category/markets,0.0,0.0,Neutral,blackrock s bitcoin etf inflows halt after    day streak  data shows
+2024-06-17 00:59:13,"Bitcoin hovers around $63,600 following the halving",https://blockworks.co/category/markets,0.0,0.0,Neutral,bitcoin hovers around         following the halving
+2024-06-17 00:59:13,Bitcoin’s block reward slashed by 50% following 2024 halving,https://blockworks.co/category/markets,0.0,-0.0258,Negative,bitcoin s block reward slashed by     following      halving
+2024-06-17 00:59:13,Bitcoin ETF segment sees record-tying fifth straight day of outflows,https://blockworks.co/category/markets,0.2,0.2263,Positive,bitcoin etf segment sees record tying fifth straight day of outflows
+2024-06-17 00:59:13,How the Bitcoin halving could impact ailing mining stocks,https://blockworks.co/category/markets,0.0,0.0,Neutral,how the bitcoin halving could impact ailing mining stocks
+2024-06-17 00:59:13,Bitcoin dips below $60K as pre-halving volatility reigns,https://blockworks.co/category/markets,0.0,0.0,Negative,bitcoin dips below    k as pre halving volatility reigns
+2024-06-17 00:59:13,Cryptos slip as Powell doubles-down on delaying rate cuts,https://blockworks.co/category/markets,-0.15555555555555559,-0.296,Negative,cryptos slip as powell doubles down on delaying rate cuts
+2024-06-17 00:59:13,Solana price falls further as Ore suspends mining on the network,https://blockworks.co/category/markets,0.0,0.0,Negative,solana price falls further as ore suspends mining on the network
+2024-06-17 00:59:13,Spot bitcoin ETF flows turn positive again as GBTC outflows taper,https://blockworks.co/category/markets,0.22727272727272727,0.5574,Positive,spot bitcoin etf flows turn positive again as gbtc outflows taper
+2024-06-17 00:59:13,Cryptocurrencies slip while stocks bounce on red-hot jobs data,https://blockworks.co/category/markets,0.125,0.0,Negative,cryptocurrencies slip while stocks bounce on red hot jobs data
+2024-06-17 00:59:13,"Cryptocurrencies, stocks bounce as Powell calms traders",https://blockworks.co/category/markets,0.0,0.3182,Neutral,cryptocurrencies  stocks bounce as powell calms traders
+2024-06-17 00:59:13,"Bitcoin, ether kick off Q2 in the red as halving approaches",https://blockworks.co/category/markets,0.0,0.0,Neutral,bitcoin  ether kick off q  in the red as halving approaches
+2024-06-17 00:59:13,Solana breaks $200 as memecoin and airdrop interest continue,https://blockworks.co/category/markets,0.0,0.4588,Neutral,solana breaks      as memecoin and airdrop interest continue
+2024-06-17 00:59:13,"Bitcoin Plunges to $65K, Altcoins Bleed 10%-20% as Week Turns Ugly",https://www.coindesk.com/,-0.7,-0.5106,Negative,bitcoin plunges to    k  altcoins bleed         as week turns ugly
+2024-06-17 00:59:13,Drake on Brink of $1M Bitcoin Loss as NHL and NBA Bets Sour,https://www.coindesk.com/,-0.15000000000000002,-0.3182,Negative,drake on brink of   m bitcoin loss as nhl and nba bets sour
+2024-06-17 00:59:13,Radix's New $10 Million Ecosystem Fund Is Paving the Way for DeFi's Mass Adoption,https://www.coindesk.com/,0.13636363636363635,0.0,Positive,radix s new     million ecosystem fund is paving the way for defi s mass adoption
+2024-06-17 00:59:13,Radix's New $10 Million Ecosystem Fund Is Paving the Way for DeFi's Mass Adoption,https://www.coindesk.com/,0.13636363636363635,0.0,Positive,radix s new     million ecosystem fund is paving the way for defi s mass adoption
+2024-06-17 00:59:13,Nigeria Drops Tax Charges Against Binance Executives,https://www.coindesk.com/,0.0,-0.2732,Neutral,nigeria drops tax charges against binance executives
+2024-06-17 00:59:13,Here's Why Bitcoin's Not Keeping Pace With Nasdaq,https://www.coindesk.com/,0.0,0.0,Negative,here s why bitcoin s not keeping pace with nasdaq
+2024-06-17 00:59:13,MicroStrategy Increases Convertible Note Offering by 40% to $700M in Bitcoin Splurge,https://www.coindesk.com/,0.0,0.0,Neutral,microstrategy increases convertible note offering by     to     m in bitcoin splurge
+2024-06-17 00:59:13,"DeFi Heavyweight Curve Focused on Becoming ‘Safest’ Lending Platform, Founder Says",https://www.coindesk.com/,0.45,0.6486,Neutral,defi heavyweight curve focused on becoming  safest  lending platform  founder says
+2024-06-17 00:59:13,"First Mover: Bitcoin Struggles Near $67,000 as Cryptos Lag Behind Stocks",https://www.coindesk.com/,-0.01666666666666668,-0.5994,Negative,first mover  bitcoin struggles near         as cryptos lag behind stocks
+2024-06-17 00:59:13,"XRP $0.5 Entry Denied, Here's What's Next, Is Solana Comeback Getting Postponed? Ethereum (ETH) To Recapture $3,500",https://u.today/,0.0,-0.5719,Neutral,xrp      entry denied  here s what s next  is solana comeback getting postponed  ethereum  eth  to recapture       
+2024-06-17 00:59:13,Top Reason Why Major Altcoin Season Is Not Coming,https://u.today/,0.28125,0.2023,Neutral,top reason why major altcoin season is not coming
+2024-06-17 00:59:13,SHIB Price Prediction for June 16,https://u.today/,0.0,0.0,Neutral,shib price prediction for june   
+2024-06-17 00:59:13,$64.4 Million ETH Allegedly Withdrawn From Ethereum Foundation: What's Going On?,https://u.today/,-0.1,0.0,Neutral,      million eth allegedly withdrawn from ethereum foundation  what s going on 
+2024-06-17 00:59:13,Bitcoin (BTC) Price Prediction for June 16,https://u.today/,0.0,0.0,Neutral,bitcoin  btc  price prediction for june   
+2024-06-17 00:59:13,Mike Novogratz Makes Surprising Dogwifhat (WIF) Appeal,https://u.today/,0.7,0.2732,Neutral,mike novogratz makes surprising dogwifhat  wif  appeal
+2024-06-17 00:59:13,Michael Saylor Makes Epic Bitcoin Call Amid Market Lull: Details,https://u.today/,0.1,0.0,Neutral,michael saylor makes epic bitcoin call amid market lull  details
+2024-06-17 00:59:13,"Ethereum ETFs May Be Approved by July 2, Top Expert Reveals",https://u.today/,0.5,0.5574,Neutral,ethereum etfs may be approved by july    top expert reveals
+2024-06-17 00:59:13,Ethereum Whales Scoop up $2.45 Billion Worth of ETH in Weeks,https://u.today/,0.3,0.3612,Neutral,ethereum whales scoop up       billion worth of eth in weeks
+2024-06-17 00:59:13,2.7 Trillion Shiba Inu (SHIB) in 24 Hours: What Just Happened?,https://u.today/,0.0,0.0,Neutral,    trillion shiba inu  shib  in    hours  what just happened 
+2024-06-17 00:59:13,Solana Meme Coin Dogwifhat (WIF) Skyrockets 5% Amid Market Lull,https://u.today/,0.0,0.0,Neutral,solana meme coin dogwifhat  wif  skyrockets    amid market lull
+2024-06-17 00:59:13,Crypto Tokens Facing Delisting Nightmare in South Korea,https://u.today/,0.0,0.0,Neutral,crypto tokens facing delisting nightmare in south korea
+2024-06-17 00:59:13,Epic 441% Shibarium Surge Stuns SHIB Community,https://u.today/,0.1,0.0258,Neutral,epic      shibarium surge stuns shib community
+2024-06-17 00:59:13,"Shiba Inu (SHIB) Community Gets Critical Message, What It Pertains To",https://u.today/,0.0,-0.3182,Neutral,shiba inu  shib  community gets critical message  what it pertains to
+2024-06-17 00:59:13,Legendary Trader Peter Brandt Endorses Satoshi Nakamoto's Bitcoin Vision,https://u.today/,1.0,0.5267,Neutral,legendary trader peter brandt endorses satoshi nakamoto s bitcoin vision
+2024-06-17 00:59:13,"Ripple's Top Lawyer: SEC Is ""Raging""",https://u.today/,0.2,-0.3818,Neutral,ripple s top lawyer  sec is  raging 
+2024-06-17 00:59:13,SHIB Burns Soar 658% as Shiba Inu Eyes Massive Rebound,https://u.today/,0.0,0.0,Positive,shib burns soar      as shiba inu eyes massive rebound
+2024-06-17 00:59:13,XRP Price Prediction for June 15,https://u.today/,0.0,0.0,Neutral,xrp price prediction for june   
+2024-06-17 00:59:13,Cardano (ADA) Price: Next Major Support Unveiled as Market Dips,https://u.today/,0.03125,0.4019,Neutral,cardano  ada  price  next major support unveiled as market dips
+2024-06-17 00:59:13,DOGE Price Prediction for June 15,https://u.today/,0.0,0.0,Neutral,doge price prediction for june   
+2024-06-17 00:59:13,"XRP $0.5 Entry Denied, Here's What's Next, Is Solana Comeback Getting Postponed? Ethereum (ETH) To Recapture $3,500",https://u.today/,0.0,-0.5719,Neutral,xrp      entry denied  here s what s next  is solana comeback getting postponed  ethereum  eth  to recapture       
+2024-06-17 00:59:13,Top Reason Why Major Altcoin Season Is Not Coming,https://u.today/,0.28125,0.2023,Neutral,top reason why major altcoin season is not coming
+2024-06-17 00:59:13,SHIB Price Prediction for June 16,https://u.today/,0.0,0.0,Neutral,shib price prediction for june   
+2024-06-17 00:59:13,$64.4 Million ETH Allegedly Withdrawn From Ethereum Foundation: What's Going On?,https://u.today/,-0.1,0.0,Neutral,      million eth allegedly withdrawn from ethereum foundation  what s going on 
+2024-06-17 00:59:13,Bitcoin (BTC) Price Prediction for June 16,https://u.today/,0.0,0.0,Neutral,bitcoin  btc  price prediction for june   
+2024-06-17 00:59:13,Top 20 Cryptocurrency Wallets in 2024,https://u.today/,0.5,0.2023,Neutral,top    cryptocurrency wallets in     
+2024-06-17 00:59:13,"Entering GameFi, Innovation Trends with Genso Meta and More: Interview With Maxi Kuan, CEO of GensoKishi Online and Genso Meta",https://u.today/,0.5,0.3818,Neutral,entering gamefi  innovation trends with genso meta and more  interview with maxi kuan  ceo of gensokishi online and genso meta
+2024-06-17 00:59:13,Everything to Know About Dogecoin (DOGE) This Week,https://u.today/,0.0,0.0,Neutral,everything to know about dogecoin  doge  this week
+2024-06-17 00:59:13,Polkadot (DOT) Price: Rebound Soon?,https://u.today/,0.0,0.0,Positive,polkadot  dot  price  rebound soon 
+2024-06-17 00:59:13,Key Reasons Why Polygon (MATIC) Price Might Skyrocket,https://u.today/,0.0,0.0,Neutral,key reasons why polygon  matic  price might skyrocket
+2024-06-17 00:59:13,Kadena Announces Partnership with Lurk Lab to Build ZK Bridge,https://u.today/,0.0,-0.2023,Neutral,kadena announces partnership with lurk lab to build zk bridge
+2024-06-17 00:59:13,Artemis: Redefining the Future of Commerce with a Decentralized Marketplace,https://u.today/,0.0,0.0,Neutral,artemis  redefining the future of commerce with a decentralized marketplace
+2024-06-17 00:59:13,Stage Raises $2.4M to Revolutionize the Future of Music,https://u.today/,0.0,0.0,Positive,stage raises     m to revolutionize the future of music
+2024-06-17 00:59:13,Get Ready for the iGaming and TECH Summer Run-Off on Strava,https://u.today/,0.2,0.3612,Neutral,get ready for the igaming and tech summer run off on strava
+2024-06-17 00:59:13,FINNOVEX South Africa 2024: Empowering the Financial Renaissance,https://u.today/,0.0,0.0,Neutral,finnovex south africa       empowering the financial renaissance
+2024-06-17 00:59:13,ONI DEX: Pioneering the Future of Decentralized Finance,https://u.today/,0.0,0.0,Positive,oni dex  pioneering the future of decentralized finance
+2024-06-17 00:59:13,"Solana’s $FRISE Raises $200,000 in 2 Hours, Top Dog's Gem of Summer 2024",https://u.today/,0.5,0.2023,Neutral,solana s  frise raises          in   hours  top dog s gem of summer     
+2024-06-17 00:59:13,"WEEX WXT Presale Launch and Ribbon Cutting Ceremony: Connect, Celebrate and Engage",https://u.today/,-0.6,0.6808,Neutral,weex wxt presale launch and ribbon cutting ceremony  connect  celebrate and engage
+2024-06-17 00:59:13,New Solana Meme Coin Sealana Surges Past $2.5M in ICO – The Next Big Crypto to Explode?,https://u.today/,-0.02840909090909091,0.0,Negative,new solana meme coin sealana surges past     m in ico   the next big crypto to explode 
+2024-06-17 00:59:13,Sealana: Can the Chubby Seal Move From Mom’s Basement to Top Meme Coin Rankings?,https://u.today/,0.5,0.2023,Neutral,sealana  can the chubby seal move from mom s basement to top meme coin rankings 
+2024-06-17 00:59:13,Viral Dogeverse Presale Nears $13M – Chain-Hopping Cosmo Brings Multibridge Utilities,https://u.today/,0.0,0.0,Neutral,viral dogeverse presale nears    m   chain hopping cosmo brings multibridge utilities
+2024-06-17 00:59:13,WienerAI: The Viral New Meme Coin Reignites AI Crypto Frenzy With Sausage Army,https://u.today/,0.13636363636363635,-0.3182,Neutral,wienerai  the viral new meme coin reignites ai crypto frenzy with sausage army
+2024-06-17 00:59:13,Multichain Meme Coin Dogeverse Hits $10M in Presale – Is it Too Late to Buy?,https://u.today/,-0.3,0.0,Neutral,multichain meme coin dogeverse hits    m in presale   is it too late to buy 
+2024-06-17 00:59:13,Traders Remain Bullish on Bitcoin Despite BTC Breaking Triangle Pattern; Are These Meme Coins a Good Buy On the Pullback?,https://u.today/,0.7,0.4404,Positive,traders remain bullish on bitcoin despite btc breaking triangle pattern  are these meme coins a good buy on the pullback 
+2024-06-17 00:59:13,"New Memecoin GODLEN Emerges, As BOME & DogWifHat Are Chasing New Gains",https://u.today/,0.13636363636363635,0.34,Negative,new memecoin godlen emerges  as bome   dogwifhat are chasing new gains
+2024-06-17 00:59:13,Stakingfarm Introduces New Passive Income Tools,https://u.today/,0.13636363636363635,0.2023,Neutral,stakingfarm introduces new passive income tools
+2024-06-17 00:59:13,"UXLINK Telegram-Based App Completes NFT Distribution, Teases Token Airdrop",https://u.today/,0.0,-0.296,Neutral,uxlink telegram based app completes nft distribution  teases token airdrop
+2024-06-17 00:59:13,Margex Offers All-In-One Crypto Trading and Earning Experience for Newbies and Pros: Review,https://u.today/,0.1,0.0,Neutral,margex offers all in one crypto trading and earning experience for newbies and pros  review
+2024-06-17 00:59:13,PrimeXBT Streamlines Crypto Futures Trading for Newbies and Pros: Review,https://u.today/,0.0,0.0,Neutral,primexbt streamlines crypto futures trading for newbies and pros  review
+2024-06-17 00:59:13,"NiceHash Teams up With Marathon Heavyweight, Introduces Novel Custom Software for Bitcoin ASICs",https://u.today/,0.0,0.3182,Neutral,nicehash teams up with marathon heavyweight  introduces novel custom software for bitcoin asics
+2024-06-17 00:59:13,"Blockchain Indexers Streamline Data Access in Web3, Latest DFG Report Says",https://u.today/,0.5,0.0,Neutral,blockchain indexers streamline data access in web   latest dfg report says
+2024-06-17 00:59:13,"Chromia Eyes Incentivized Testnet With 250,000 CHR Tokens in Rewards",https://u.today/,0.0,0.4767,Neutral,chromia eyes incentivized testnet with         chr tokens in rewards
+2024-06-17 00:59:13,"XRP $0.5 Entry Denied, Here's What's Next, Is Solana Comeback Getting Postponed? Ethereum (ETH) To Recapture $3,500",https://u.today/,0.0,-0.5719,Neutral,xrp      entry denied  here s what s next  is solana comeback getting postponed  ethereum  eth  to recapture       
+2024-06-17 00:59:13,"XRP Enters Reversal Zone, $0.00002 Shiba Inu (SHIB) Level Is Dangerous, Will Ethereum (ETH) Survive?",https://u.today/,-0.6,-0.4767,Negative,xrp enters reversal zone           shiba inu  shib  level is dangerous  will ethereum  eth  survive 
+2024-06-17 00:59:13,"Shiba Inu (SHIB) on Its Way to Reversal, Solana (SOL) Hanging From Edge, Ethereum (ETH ) Lost $3,500",https://u.today/,0.0,-0.3182,Neutral,shiba inu  shib  on its way to reversal  solana  sol  hanging from edge  ethereum  eth   lost       
+2024-06-17 00:59:13,"XRP $0.5 Entry Denied, Here's What's Next, Is Solana Comeback Getting Postponed? Ethereum (ETH) To Recapture $3,500",https://u.today/,0.0,-0.5719,Neutral,xrp      entry denied  here s what s next  is solana comeback getting postponed  ethereum  eth  to recapture       
+2024-06-17 00:59:13,"XRP Enters Reversal Zone, $0.00002 Shiba Inu (SHIB) Level Is Dangerous, Will Ethereum (ETH) Survive?",https://u.today/,-0.6,-0.4767,Negative,xrp enters reversal zone           shiba inu  shib  level is dangerous  will ethereum  eth  survive 
+2024-06-17 00:59:13,"Shiba Inu (SHIB) on Its Way to Reversal, Solana (SOL) Hanging From Edge, Ethereum (ETH ) Lost $3,500",https://u.today/,0.0,-0.3182,Neutral,shiba inu  shib  on its way to reversal  solana  sol  hanging from edge  ethereum  eth   lost       
+2024-06-17 00:59:13,SHIB Price Prediction for June 16,https://u.today/,0.0,0.0,Neutral,shib price prediction for june   
+2024-06-17 00:59:13,Bitcoin (BTC) Price Prediction for June 16,https://u.today/,0.0,0.0,Neutral,bitcoin  btc  price prediction for june   
+2024-06-17 00:59:13,XRP Price Prediction for June 15,https://u.today/,0.0,0.0,Neutral,xrp price prediction for june   
+2024-06-17 00:59:13,DOGE Price Prediction for June 15,https://u.today/,0.0,0.0,Neutral,doge price prediction for june   
+2024-06-17 00:59:13,Binance Coin (BNB) Price Prediction for June 14,https://u.today/,0.0,0.0,Neutral,binance coin  bnb  price prediction for june   
+2024-06-17 00:59:13,Cardano (ADA) Price Prediction for June 14,https://u.today/,0.0,0.0,Neutral,cardano  ada  price prediction for june   
+2024-06-17 00:59:13,"XRP $0.5 Entry Denied, Here's What's Next, Is Solana Comeback Getting Postponed? Ethereum (ETH) To Recapture $3,500",https://u.today/,0.0,-0.5719,Neutral,xrp      entry denied  here s what s next  is solana comeback getting postponed  ethereum  eth  to recapture       
+2024-06-17 00:59:13,Top Reason Why Major Altcoin Season Is Not Coming,https://u.today/,0.28125,0.2023,Neutral,top reason why major altcoin season is not coming
+2024-06-17 00:59:13,$64.4 Million ETH Allegedly Withdrawn From Ethereum Foundation: What's Going On?,https://u.today/,-0.1,0.0,Neutral,      million eth allegedly withdrawn from ethereum foundation  what s going on 
+2024-06-17 00:59:13,Mike Novogratz Makes Surprising Dogwifhat (WIF) Appeal,https://u.today/,0.7,0.2732,Neutral,mike novogratz makes surprising dogwifhat  wif  appeal
+2024-06-17 00:59:13,Michael Saylor Makes Epic Bitcoin Call Amid Market Lull: Details,https://u.today/,0.1,0.0,Neutral,michael saylor makes epic bitcoin call amid market lull  details
+2024-06-17 00:59:13,"Ethereum ETFs May Be Approved by July 2, Top Expert Reveals",https://u.today/,0.5,0.5574,Neutral,ethereum etfs may be approved by july    top expert reveals
+2024-06-17 00:59:13,Ethereum Whales Scoop up $2.45 Billion Worth of ETH in Weeks,https://u.today/,0.3,0.3612,Neutral,ethereum whales scoop up       billion worth of eth in weeks
+2024-06-17 00:59:13,2.7 Trillion Shiba Inu (SHIB) in 24 Hours: What Just Happened?,https://u.today/,0.0,0.0,Neutral,    trillion shiba inu  shib  in    hours  what just happened 
+2024-06-17 00:59:13,Solana Meme Coin Dogwifhat (WIF) Skyrockets 5% Amid Market Lull,https://u.today/,0.0,0.0,Neutral,solana meme coin dogwifhat  wif  skyrockets    amid market lull
+2024-06-17 00:59:13,Crypto Tokens Facing Delisting Nightmare in South Korea,https://u.today/,0.0,0.0,Neutral,crypto tokens facing delisting nightmare in south korea
+2024-06-17 00:59:13,Epic 441% Shibarium Surge Stuns SHIB Community,https://u.today/,0.1,0.0258,Neutral,epic      shibarium surge stuns shib community
+2024-06-17 00:59:13,"Shiba Inu (SHIB) Community Gets Critical Message, What It Pertains To",https://u.today/,0.0,-0.3182,Neutral,shiba inu  shib  community gets critical message  what it pertains to
+2024-06-17 00:59:13,Legendary Trader Peter Brandt Endorses Satoshi Nakamoto's Bitcoin Vision,https://u.today/,1.0,0.5267,Neutral,legendary trader peter brandt endorses satoshi nakamoto s bitcoin vision
+2024-06-17 00:59:13,"Ripple's Top Lawyer: SEC Is ""Raging""",https://u.today/,0.2,-0.3818,Neutral,ripple s top lawyer  sec is  raging 
+2024-06-17 00:59:13,SHIB Burns Soar 658% as Shiba Inu Eyes Massive Rebound,https://u.today/,0.0,0.0,Positive,shib burns soar      as shiba inu eyes massive rebound
+2024-06-17 00:59:13,Cardano (ADA) Price: Next Major Support Unveiled as Market Dips,https://u.today/,0.03125,0.4019,Neutral,cardano  ada  price  next major support unveiled as market dips
+2024-06-17 00:59:13,'Game Changer for Payments': Coinbase CEO Gives Hot Take on Crypto Developments,https://u.today/,-0.07500000000000001,0.0,Neutral, game changer for payments   coinbase ceo gives hot take on crypto developments
+2024-06-17 00:59:13,Coinbase Halts Trading of Two Crypto Tokens: Here's Why,https://u.today/,0.0,0.0,Negative,coinbase halts trading of two crypto tokens  here s why
+2024-06-17 00:59:13,SHIB Insider Reveals Game-Changing Shiba Inu Update,https://u.today/,-0.4,0.0,Neutral,shib insider reveals game changing shiba inu update
+2024-06-17 00:59:13,Bitcoin (BTC) Godzilla Statement Issued by Michael Saylor,https://u.today/,0.0,0.0,Neutral,bitcoin  btc  godzilla statement issued by michael saylor
+2024-06-17 00:59:13,Notcoin (NOT) Price Rallies 20%; Will TON-Based Coin Save the Day?,https://u.today/,0.0,0.4939,Neutral,notcoin  not  price rallies      will ton based coin save the day 
+2024-06-17 00:59:13,114 Billion PEPE Trader's Surprising Ethereum Shift; Here's Why,https://u.today/,0.7,0.2732,Neutral,    billion pepe trader s surprising ethereum shift  here s why
+2024-06-17 00:59:13,Shiba Inu (SHIB) Gains Support From British Red Cross,https://u.today/,0.0,0.6249,Positive,shiba inu  shib  gains support from british red cross
+2024-06-17 00:59:13,Celebrity Meme Coins Ridiculed by Famous NFT Artist,https://u.today/,0.5,-0.3612,Neutral,celebrity meme coins ridiculed by famous nft artist
+2024-06-17 00:59:13,XRP vs. Dogecoin: Who Tops Market?,https://u.today/,0.0,0.5106,Neutral,xrp vs  dogecoin  who tops market 
+2024-06-17 00:59:13,"Bitcoin Whales Go Insane, Unloading $4.1 Billion in BTC as Price Crashes 9%",https://u.today/,-1.0,-0.4019,Neutral,bitcoin whales go insane  unloading      billion in btc as price crashes   
+2024-06-17 00:59:13,Ripple Gets Epic Clap Back From SEC in Latest Terraform Labs Citation,https://u.today/,0.125,0.0,Neutral,ripple gets epic clap back from sec in latest terraform labs citation
+2024-06-17 00:59:13,BTC Price Dropping — Who's Actually Selling Bitcoin?,https://u.today/,0.0,0.0,Neutral,btc price dropping   who s actually selling bitcoin 
+2024-06-17 00:59:13,Shytoshi Kusama Addresses SHIB Army With Enigmatic Tweet: Details,https://u.today/,0.1,0.0,Neutral,shytoshi kusama addresses shib army with enigmatic tweet  details
+2024-06-17 00:59:13,'Rich Dad Poor Dad' Reveals Important Nuance About Bitcoin (BTC),https://u.today/,0.125,0.3182,Neutral, rich dad poor dad  reveals important nuance about bitcoin  btc 
+2024-06-17 00:59:13,Polygon (MATIC) Price Finds It Difficult to Recover,https://beincrypto.com/,-0.5,-0.3612,Negative,polygon  matic  price finds it difficult to recover
+2024-06-17 00:59:13,Meme Coin Investors Lose Hope in BONK,https://beincrypto.com/,0.0,0.0516,Negative,meme coin investors lose hope in bonk
+2024-06-17 00:59:13,4 Token Unlocks to Watch Next Week,https://beincrypto.com/,0.0,0.0,Neutral,  token unlocks to watch next week
+2024-06-17 00:59:13,Dogecoin (DOGE) Is in Optimal Buy Zone,https://beincrypto.com/,0.0,0.3612,Neutral,dogecoin  doge  is in optimal buy zone
+2024-06-17 00:59:13,Apple’s New iPad Pro Puts Render (RNDR) in the AI Crypto Spotlight,https://beincrypto.com/,0.13636363636363635,0.0,Positive,apple s new ipad pro puts render  rndr  in the ai crypto spotlight
+2024-06-17 00:59:13,Meme Coin PEPE Bounces Off Critical Support,https://beincrypto.com/,0.0,0.1027,Positive,meme coin pepe bounces off critical support
+2024-06-17 00:59:13,Dogecoin Developer Warns About Crypto Gambling,https://www.cryptotimes.io/category/market-news/,0.0,-0.1027,Negative,dogecoin developer warns about crypto gambling
+2024-06-17 00:59:13,Malaysia Officials Crack Down on Crypto Traders Dodging Taxes,https://www.cryptotimes.io/category/market-news/,-0.15555555555555559,-0.1027,Negative,malaysia officials crack down on crypto traders dodging taxes
+2024-06-17 00:59:13,Maduro Evade Sanctions Using Crypto: Venezuela Activists,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Negative,maduro evade sanctions using crypto  venezuela activists
+2024-06-17 00:59:13,OkayCoin Offers Easy Ethereum Staking for Investors,https://www.cryptotimes.io/category/market-news/,0.26666666666666666,0.4404,Positive,okaycoin offers easy ethereum staking for investors
+2024-06-17 00:59:13,FSA Cracks Down on LBank Crypto Exchange,https://www.cryptotimes.io/category/market-news/,-0.15555555555555559,0.0,Negative,fsa cracks down on lbank crypto exchange
+2024-06-17 00:59:13,Trump Vows To End Joe Biden’s ‘war on crypto’ if Elected,https://www.cryptotimes.io/category/market-news/,0.0,-0.5994,Neutral,trump vows to end joe biden s  war on crypto  if elected
+2024-06-17 00:59:13,CryptoHub Hosts $BPAY Token Sale for BoundlessPay Launch,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,cryptohub hosts  bpay token sale for boundlesspay launch
+2024-06-17 00:59:13,Shiba Inu Burns Surge 685% Weekly Despite Daily Decline,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,shiba inu burns surge      weekly despite daily decline
+2024-06-17 00:59:13,OkayCoin Introduces Crypto Staking Services to South Korea,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,okaycoin introduces crypto staking services to south korea
+2024-06-17 00:59:13,ZK Nation Releases Updated FAQ on Upcoming ZKsync Airdrop,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,zk nation releases updated faq on upcoming zksync airdrop
+2024-06-17 00:59:13,Turkish Bank Garanti BBVA Launches Crypto Wallet and Trading Services,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,turkish bank garanti bbva launches crypto wallet and trading services
+2024-06-17 00:59:13,Cardano Founder Advocates Blockchain for Election Integrity,https://www.cryptotimes.io/category/market-news/,0.0,0.3818,Neutral,cardano founder advocates blockchain for election integrity
+2024-06-17 00:59:13,Ripple CEO Reveals Teaming Up with 10 Govt. to Build CBDCs,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,ripple ceo reveals teaming up with    govt  to build cbdcs
+2024-06-17 00:59:13,"Retail and Institutional Investors Rally Behind Memecoins, Bybit",https://www.cryptotimes.io/category/market-news/,-0.4,0.0,Positive,retail and institutional investors rally behind memecoins  bybit
+2024-06-17 00:59:13,Ripple’s SEC Settlement Cut from $2B to $102 Million,https://www.cryptotimes.io/category/market-news/,-0.1,-0.2732,Neutral,ripple s sec settlement cut from   b to      million
+2024-06-17 00:59:13,Empire Market Dark Site Owners Charged for Illicit Trade,https://www.cryptotimes.io/category/market-news/,-0.15,-0.2023,Neutral,empire market dark site owners charged for illicit trade
+2024-06-17 00:59:13,Tether CEO says USDT could emerge as Dollar Alternative,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,tether ceo says usdt could emerge as dollar alternative
+2024-06-17 00:59:13,"Binance Supports Merger of FET, AGIX, and OCEAN Tokens into ASI",https://www.cryptotimes.io/category/market-news/,0.0,0.3612,Neutral,binance supports merger of fet  agix  and ocean tokens into asi
+2024-06-17 00:59:13,BIS Survey Shows Sharp Rise in CBDC Trials Among Central Banks,https://www.cryptotimes.io/category/market-news/,-0.0625,0.0,Neutral,bis survey shows sharp rise in cbdc trials among central banks
+2024-06-17 00:59:13,Forbes Report Unveils Changpeng Zhao (CZ) 94M BNB Holdings,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,forbes report unveils changpeng zhao  cz    m bnb holdings
+2024-06-17 00:59:13,ValueZone Enhances Security to Boost Customer’s Trust,https://www.cryptotimes.io/category/market-news/,0.0,0.8126,Positive,valuezone enhances security to boost customer s trust
+2024-06-17 00:59:13,Polygon Launches New Community Governance Platform Built by Aragon,https://www.cryptotimes.io/category/market-news/,0.13636363636363635,0.0,Neutral,polygon launches new community governance platform built by aragon
+2024-06-17 00:59:13,OKX Ventures Partners with SOFA.org for DeFi Settlements,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,okx ventures partners with sofa org for defi settlements
+2024-06-17 00:59:13,BVNK launches Swift Payments for Global Transactions,https://www.cryptotimes.io/category/market-news/,0.0,0.2023,Neutral,bvnk launches swift payments for global transactions
+2024-06-17 00:59:13,"Bitcoin Price Nears $65,000 Support Level, Will It Hold?",https://www.cryptotimes.io/category/market-news/,0.0,0.4019,Neutral,bitcoin price nears         support level  will it hold 
+2024-06-17 00:59:13,Gemini Agrees to $50M Settlement Over Investor Fraud,https://www.cryptotimes.io/category/market-news/,0.0,-0.4588,Neutral,gemini agrees to    m settlement over investor fraud
+2024-06-17 00:59:13,Turkey Introduces 0.03% Crypto Tax Amid Economic Reforms,https://www.cryptotimes.io/category/market-news/,0.2,0.0,Neutral,turkey introduces       crypto tax amid economic reforms
+2024-06-17 00:59:13,Binance Cofounder Yi He Warns Against Impersonation Scam,https://www.cryptotimes.io/category/market-news/,0.0,-0.6249,Neutral,binance cofounder yi he warns against impersonation scam
+2024-06-17 00:59:13,Nigeria Withdraws Tax Charges Against Binance Executives,https://www.cryptotimes.io/category/market-news/,0.0,-0.2732,Neutral,nigeria withdraws tax charges against binance executives
+2024-06-17 00:59:13,"Lil Pump Gets Solana Tattooed On Forehead, Claims He Sold His ‘SOL’",https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,lil pump gets solana tattooed on forehead  claims he sold his  sol 
