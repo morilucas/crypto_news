@@ -9134,3 +9134,181 @@ date_scraped,headline,source,TextBlob_sentiment,VADER_sentiment,FinBERT_sentimen
 2024-06-30 01:03:03,T-Rex Roars with 2X MicroStrategy ETF ‘Ghost Pepper’,https://www.cryptotimes.io/category/market-news/,0.0,-0.3182,Neutral,t rex roars with  x microstrategy etf  ghost pepper 
 2024-06-30 01:03:03,Binance Steps Up Compliance Efforts Against Account Misuse,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,binance steps up compliance efforts against account misuse
 2024-06-30 01:03:03,Logan Paul Sues Coffeezilla for Defamation Over CryptoZoo,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,logan paul sues coffeezilla for defamation over cryptozoo
+2024-07-01 01:04:01,Analysts Think Spot Ethereum ETFs Will Begin Trading After July 4 Holiday,https://decrypt.co/,0.0,0.4019,Neutral,analysts think spot ethereum etfs will begin trading after july   holiday
+2024-07-01 01:04:01,Federal Judge Dismissed Part of the SEC's Lawsuit Against Binance—But Binance.US Charges Will Proceed,https://decrypt.co/,-0.1,-0.4767,Neutral,federal judge dismissed part of the sec s lawsuit against binance but binance us charges will proceed
+2024-07-01 01:04:01,"Supreme Court Ruling on ""Chevron Deference"" Could Impact the Crypto Industry",https://decrypt.co/,0.0,0.5574,Negative,supreme court ruling on  chevron deference  could impact the crypto industry
+2024-07-01 01:04:01,US Treasury Releases 2025 Tax Rules,https://decrypt.co/,0.0,0.2023,Neutral,us treasury releases      tax rules
+2024-07-01 01:04:01,"Coinbase Is the First US Derivatives Exchange to List Regulated Futures for Shiba Inu, Chainlink, Avalanche and Polkadot",https://decrypt.co/,0.25,0.0,Neutral,coinbase is the first us derivatives exchange to list regulated futures for shiba inu  chainlink  avalanche and polkadot
+2024-07-01 01:04:01,Pixelverse Token Will Launch on TON Following 'PixelTap' Telegram Success,https://decrypt.co/,0.15,0.5719,Positive,pixelverse token will launch on ton following  pixeltap  telegram success
+2024-07-01 01:04:01,Ethereum Giant Consensys Sued by SEC Over MetaMask Staking,https://decrypt.co/,-0.05,0.0,Negative,ethereum giant consensys sued by sec over metamask staking
+2024-07-01 01:04:01,21Shares Files With SEC to Launch Solana ETF,https://decrypt.co/,-0.1,0.296,Neutral,  shares files with sec to launch solana etf
+2024-07-01 01:04:01,"Crypto Markets Down Despite Cooling Inflation, Solana Reverses Gains",https://decrypt.co/,-0.15555555555555559,0.34,Negative,crypto markets down despite cooling inflation  solana reverses gains
+2024-07-01 01:04:01,Yield App Halts Activity and Enters Liquidation After Losing Funds on FTX,https://decrypt.co/,0.0,-0.3818,Negative,yield app halts activity and enters liquidation after losing funds on ftx
+2024-07-01 01:04:01,Supreme Court Decision to Overturn Chevron Doctrine Could Benefit Bitcoin,https://decrypt.co/,0.0,0.765,Positive,supreme court decision to overturn chevron doctrine could benefit bitcoin
+2024-07-01 01:04:01,Mystery Bitcoin Whale Sends $61 Million in Bitcoin to Coinbase After 6 Years,https://decrypt.co/,0.0,0.0,Neutral,mystery bitcoin whale sends     million in bitcoin to coinbase after   years
+2024-07-01 01:04:01,"First US Presidential Debate Skips Crypto, But Crypto Twitter Still Weighed In",https://decrypt.co/,0.25,0.0,Neutral,first us presidential debate skips crypto  but crypto twitter still weighed in
+2024-07-01 01:04:01,Kraken's Jesse Powell Donates $1 Million in Crypto to Trump Campaign,https://decrypt.co/,0.0,0.0,Neutral,kraken s jesse powell donates    million in crypto to trump campaign
+2024-07-01 01:04:01,"Nigeria's Crypto Industry Is Worth $400 Million, Says Local SEC",https://decrypt.co/,0.06666666666666667,0.2263,Neutral,nigeria s crypto industry is worth      million  says local sec
+2024-07-01 01:04:01,"US equities edge higher, cryptocurrencies slip as inflation cools, market reacts to debate",https://blockworks.co/category/markets,0.25,0.0,Negative,us equities edge higher  cryptocurrencies slip as inflation cools  market reacts to debate
+2024-07-01 01:04:01,What technical analysis says on where bitcoin goes from here,https://blockworks.co/category/markets,0.0,0.0,Neutral,what technical analysis says on where bitcoin goes from here
+2024-07-01 01:04:01,Bitcoin may be in a ‘sell in May and go away’ phase: Analyst,https://blockworks.co/category/markets,0.0,0.0,Neutral,bitcoin may be in a  sell in may and go away  phase  analyst
+2024-07-01 01:04:01,How this bitcoin bull market stacks up against the others,https://blockworks.co/category/markets,0.0,0.0,Neutral,how this bitcoin bull market stacks up against the others
+2024-07-01 01:04:01,Base memecoin Based Brett threatens to flip Solana’s BONK,https://blockworks.co/category/markets,-0.8,-0.3818,Negative,base memecoin based brett threatens to flip solana s bonk
+2024-07-01 01:04:01,"Hotter-than-expected jobs report shows mixed bag, markets dip",https://blockworks.co/category/markets,-0.05,0.0,Negative,hotter than expected jobs report shows mixed bag  markets dip
+2024-07-01 01:04:01,Mt Gox distributions may not be all doom and gloom for bitcoin,https://blockworks.co/category/markets,-0.13333333333333333,-0.3274,Neutral,mt gox distributions may not be all doom and gloom for bitcoin
+2024-07-01 01:04:01,"Ether, bitcoin rally on renewed ETH ETF optimism",https://blockworks.co/category/markets,0.0,0.5423,Positive,ether  bitcoin rally on renewed eth etf optimism
+2024-07-01 01:04:01,Is the SEC’s expected spot ether ETF denial priced in?,https://blockworks.co/category/markets,-0.1,0.0,Neutral,is the sec s expected spot ether etf denial priced in 
+2024-07-01 01:04:01,"Cryptocurrencies rally, stocks trade sideways as traders speculate interest rate decision",https://blockworks.co/category/markets,0.0,0.4588,Neutral,cryptocurrencies rally  stocks trade sideways as traders speculate interest rate decision
+2024-07-01 01:04:01,"Bitcoin is back above $60K, stocks rally on cooler jobs data",https://blockworks.co/category/markets,0.0,0.0,Positive,bitcoin is back above    k  stocks rally on cooler jobs data
+2024-07-01 01:04:01,"Fed holds interest rates, markets hardly react",https://blockworks.co/category/markets,-0.2916666666666667,0.4588,Negative,fed holds interest rates  markets hardly react
+2024-07-01 01:04:01,"Cryptocurrencies, stocks slide ahead of Fed rate decision",https://blockworks.co/category/markets,0.0,0.0,Neutral,cryptocurrencies  stocks slide ahead of fed rate decision
+2024-07-01 01:04:01,"Stocks bounce, cryptocurrencies trade sideways despite disappointing inflation data",https://blockworks.co/category/markets,-0.6,0.3875,Neutral,stocks bounce  cryptocurrencies trade sideways despite disappointing inflation data
+2024-07-01 01:04:01,"Cryptocurrencies, equities slide on slowing economic growth",https://blockworks.co/category/markets,0.2,0.3818,Negative,cryptocurrencies  equities slide on slowing economic growth
+2024-07-01 01:04:01,"BlackRock’s bitcoin ETF inflows halt after 71-day streak, data shows",https://blockworks.co/category/markets,0.0,0.0,Neutral,blackrock s bitcoin etf inflows halt after    day streak  data shows
+2024-07-01 01:04:01,"Bitcoin hovers around $63,600 following the halving",https://blockworks.co/category/markets,0.0,0.0,Neutral,bitcoin hovers around         following the halving
+2024-07-01 01:04:01,Bitcoin’s block reward slashed by 50% following 2024 halving,https://blockworks.co/category/markets,0.0,-0.0258,Negative,bitcoin s block reward slashed by     following      halving
+2024-07-01 01:04:01,Bitcoin ETF segment sees record-tying fifth straight day of outflows,https://blockworks.co/category/markets,0.2,0.2263,Positive,bitcoin etf segment sees record tying fifth straight day of outflows
+2024-07-01 01:04:01,How the Bitcoin halving could impact ailing mining stocks,https://blockworks.co/category/markets,0.0,0.0,Neutral,how the bitcoin halving could impact ailing mining stocks
+2024-07-01 01:04:01,Bitcoin dips below $60K as pre-halving volatility reigns,https://blockworks.co/category/markets,0.0,0.0,Negative,bitcoin dips below    k as pre halving volatility reigns
+2024-07-01 01:04:01,Cryptos slip as Powell doubles-down on delaying rate cuts,https://blockworks.co/category/markets,-0.15555555555555559,-0.296,Negative,cryptos slip as powell doubles down on delaying rate cuts
+2024-07-01 01:04:01,Solana price falls further as Ore suspends mining on the network,https://blockworks.co/category/markets,0.0,0.0,Negative,solana price falls further as ore suspends mining on the network
+2024-07-01 01:04:01,Spot bitcoin ETF flows turn positive again as GBTC outflows taper,https://blockworks.co/category/markets,0.22727272727272727,0.5574,Positive,spot bitcoin etf flows turn positive again as gbtc outflows taper
+2024-07-01 01:04:01,"SEC Sues Consensys Over MetaMask Staking, Broker Allegations",https://www.coindesk.com/,-0.1,0.0,Negative,sec sues consensys over metamask staking  broker allegations
+2024-07-01 01:04:01,Ripple’s Big Court Win Nonetheless Muddied Waters on Whether XRP Is a Security Deserving Tougher Regulation,https://www.coindesk.com/,0.4666666666666666,0.7845,Negative,ripple s big court win nonetheless muddied waters on whether xrp is a security deserving tougher regulation
+2024-07-01 01:04:01,A Crypto-Backed Mastercard? Yes.,https://www.coindesk.com/,0.0,0.4215,Neutral,a crypto backed mastercard  yes 
+2024-07-01 01:04:01,A Crypto-Backed Mastercard? Yes.,https://www.coindesk.com/,0.0,0.4215,Neutral,a crypto backed mastercard  yes 
+2024-07-01 01:04:01,"Solana ETF Applications Look Like Bets on Trump Retaking White House, Making U.S. Friendlier to Crypto",https://www.coindesk.com/,0.0,0.6705,Neutral,solana etf applications look like bets on trump retaking white house  making u s  friendlier to crypto
+2024-07-01 01:04:01,Bitcoin and Crypto Closing Out Lame Quarter and One Analyst Believes More Pain Could Be in Store,https://www.coindesk.com/,0.0,-0.7501,Negative,bitcoin and crypto closing out lame quarter and one analyst believes more pain could be in store
+2024-07-01 01:04:01,Ether to Hit $6.5K Later This Year Driven by Inflows Into Spot ETFs: Analyst,https://www.coindesk.com/,0.0,0.0,Neutral,ether to hit     k later this year driven by inflows into spot etfs  analyst
+2024-07-01 01:04:01,"Kraken Co-Founder Jesse Powell Donates $1M, Mostly Ether, to Donald Trump",https://www.coindesk.com/,0.5,0.0,Neutral,kraken co founder jesse powell donates   m  mostly ether  to donald trump
+2024-07-01 01:04:01,"Long Dormant Whale Sends $61M BTC to Coinbase, On-Chain Data Shows",https://www.coindesk.com/,-0.05,0.0,Neutral,long dormant whale sends    m btc to coinbase  on chain data shows
+2024-07-01 01:04:01,"XRP to Skyrocket Next Week? Ethereum (ETH) Not Losing $3,370, Will Solana (SOL) Reach $150 Again?",https://u.today/,0.0,0.3147,Neutral,xrp to skyrocket next week  ethereum  eth  not losing         will solana  sol  reach      again 
+2024-07-01 01:04:01,Dogecoin (DOGE) Flashes Major Buy Singal: Analyst,https://u.today/,0.0625,0.0,Neutral,dogecoin  doge  flashes major buy singal  analyst
+2024-07-01 01:04:01,Sonic's Odyssey Testnet Reaches Major Milestone,https://u.today/,0.0625,0.0516,Positive,sonic s odyssey testnet reaches major milestone
+2024-07-01 01:04:01,DOGE Price Prediction for June 30,https://u.today/,0.0,0.0,Neutral,doge price prediction for june   
+2024-07-01 01:04:01,SHIB Price Prediction for June 30,https://u.today/,0.0,0.0,Neutral,shib price prediction for june   
+2024-07-01 01:04:01,Here's How Rich Ethereum Founder Vitalik Buterin Really Is,https://u.today/,0.2875,0.5574,Neutral,here s how rich ethereum founder vitalik buterin really is
+2024-07-01 01:04:01,Shiba Inu (SHIB) Rival Issues Major Scam Alert: What Happened?,https://u.today/,0.0625,-0.3612,Neutral,shiba inu  shib  rival issues major scam alert  what happened 
+2024-07-01 01:04:01,Is XRP Security? SEC Veteran and XRP Advocate Sort Out,https://u.today/,-0.05,0.34,Neutral,is xrp security  sec veteran and xrp advocate sort out
+2024-07-01 01:04:01,Michael Saylor Declares Bitcoin's Next Wave Amid BTC Dull Market Action,https://u.today/,-0.0638888888888889,-0.4019,Neutral,michael saylor declares bitcoin s next wave amid btc dull market action
+2024-07-01 01:04:01,Vitalik Buterin Unveils Main Challenge of Crypto Regulation,https://u.today/,0.16666666666666666,0.0772,Neutral,vitalik buterin unveils main challenge of crypto regulation
+2024-07-01 01:04:01,Toncoin (TON) Hits Major 32 Million Milestone,https://u.today/,0.0625,0.0,Positive,toncoin  ton  hits major    million milestone
+2024-07-01 01:04:01,"Xuirin Finance (XUIRIN) Bets on Social Media Presence, Launches Affiliate Program",https://u.today/,0.03333333333333333,0.0,Neutral,xuirin finance  xuirin  bets on social media presence  launches affiliate program
+2024-07-01 01:04:01,"Ripple Ruling Boosts Binance in SEC Showdown, Crypto Community Reacts",https://u.today/,-0.1,0.3182,Positive,ripple ruling boosts binance in sec showdown  crypto community reacts
+2024-07-01 01:04:01,Peter Thiel: Most of Bitcoin (BTC) Value Has Been Extracted,https://u.today/,0.5,0.34,Neutral,peter thiel  most of bitcoin  btc  value has been extracted
+2024-07-01 01:04:01,Solana Just Dethroned Ethereum in This Key Metric,https://u.today/,0.0,0.0,Neutral,solana just dethroned ethereum in this key metric
+2024-07-01 01:04:01,Ethereum Records Lowest Gas Prices Since 2016,https://u.today/,0.0,-0.3818,Negative,ethereum records lowest gas prices since     
+2024-07-01 01:04:01,Shiba Inu Skyrockets 243% Yet SHIB Price Not Moving,https://u.today/,0.0,0.0,Neutral,shiba inu skyrockets      yet shib price not moving
+2024-07-01 01:04:01,6.43 Trillion Shiba Inu (SHIB) in 24 Hours: What Happened?,https://u.today/,0.0,0.0,Neutral,     trillion shiba inu  shib  in    hours  what happened 
+2024-07-01 01:04:01,Ripple's Top Lawyer Celebrates Another SEC Loss,https://u.today/,0.2,0.4939,Negative,ripple s top lawyer celebrates another sec loss
+2024-07-01 01:04:01,41 Billion SHIB Mysteriously Sent to Leading US Exchanges – What's Happening?,https://u.today/,0.0,0.0,Neutral,   billion shib mysteriously sent to leading us exchanges   what s happening 
+2024-07-01 01:04:01,"XRP to Skyrocket Next Week? Ethereum (ETH) Not Losing $3,370, Will Solana (SOL) Reach $150 Again?",https://u.today/,0.0,0.3147,Neutral,xrp to skyrocket next week  ethereum  eth  not losing         will solana  sol  reach      again 
+2024-07-01 01:04:01,Dogecoin (DOGE) Flashes Major Buy Singal: Analyst,https://u.today/,0.0625,0.0,Neutral,dogecoin  doge  flashes major buy singal  analyst
+2024-07-01 01:04:01,Sonic's Odyssey Testnet Reaches Major Milestone,https://u.today/,0.0625,0.0516,Positive,sonic s odyssey testnet reaches major milestone
+2024-07-01 01:04:01,DOGE Price Prediction for June 30,https://u.today/,0.0,0.0,Neutral,doge price prediction for june   
+2024-07-01 01:04:01,SHIB Price Prediction for June 30,https://u.today/,0.0,0.0,Neutral,shib price prediction for june   
+2024-07-01 01:04:01,Everything to Know About Shiba Inu (SHIB) This Week,https://u.today/,0.0,0.0,Neutral,everything to know about shiba inu  shib  this week
+2024-07-01 01:04:01,"Supporting P2P and B2C Fiat Trading Modes, CoinEx Provides Global Users with Diverse and Convenient On/Off-Ramp Service Choices",https://u.today/,0.125,0.4404,Neutral,supporting p p and b c fiat trading modes  coinex provides global users with diverse and convenient on off ramp service choices
+2024-07-01 01:04:01,Everything to Know About XRP This Week,https://u.today/,0.0,0.0,Neutral,everything to know about xrp this week
+2024-07-01 01:04:01,Top 20 Cryptocurrency Wallets in 2024,https://u.today/,0.5,0.2023,Neutral,top    cryptocurrency wallets in     
+2024-07-01 01:04:01,"Entering GameFi, Innovation Trends with Genso Meta and More: Interview With Maxi Kuan, CEO of GensoKishi Online and Genso Meta",https://u.today/,0.5,0.3818,Neutral,entering gamefi  innovation trends with genso meta and more  interview with maxi kuan  ceo of gensokishi online and genso meta
+2024-07-01 01:04:01,"Pandiana Set To Launch On Solana, Redefining Meme Coins with Utility And Innovation",https://u.today/,0.0,0.3818,Positive,pandiana set to launch on solana  redefining meme coins with utility and innovation
+2024-07-01 01:04:01,LBank Achieves Major Milestones and Expands Global Presence in H1 2024,https://u.today/,0.03125,0.1027,Positive,lbank achieves major milestones and expands global presence in h      
+2024-07-01 01:04:01,Darkside of the force Presale,https://u.today/,0.0,0.0,Neutral,darkside of the force presale
+2024-07-01 01:04:01,Revolutionizing Tech: Universal Tech Expo 2024 Ignites Innovation in the Heart of Southeast Asia,https://u.today/,0.0,0.3818,Positive,revolutionizing tech  universal tech expo      ignites innovation in the heart of southeast asia
+2024-07-01 01:04:01,How to Trade Monero - Quick Guide to Buying and Selling XMR Tokens,https://u.today/,0.3333333333333333,0.0,Neutral,how to trade monero   quick guide to buying and selling xmr tokens
+2024-07-01 01:04:01,"ETHMilan, Italy's largest international ETH & Web3 Conference, Makes a Dramatic Return",https://u.today/,-0.21666666666666665,0.0,Positive,ethmilan  italy s largest international eth   web  conference  makes a dramatic return
+2024-07-01 01:04:01,Kadena Announces Nitin Gaur as Advisor,https://u.today/,0.0,0.0,Neutral,kadena announces nitin gaur as advisor
+2024-07-01 01:04:01,DeltaPrime Unveils $PRIME Token: Pioneering a New Standard in DeFi Governance and Utility,https://u.today/,0.06818181818181818,0.0,Neutral,deltaprime unveils  prime token  pioneering a new standard in defi governance and utility
+2024-07-01 01:04:01,New Solana Meme Coin Sealana Surges Past $2.5M in ICO – The Next Big Crypto to Explode?,https://u.today/,-0.02840909090909091,0.0,Negative,new solana meme coin sealana surges past     m in ico   the next big crypto to explode 
+2024-07-01 01:04:01,Sealana: Can the Chubby Seal Move From Mom’s Basement to Top Meme Coin Rankings?,https://u.today/,0.5,0.2023,Neutral,sealana  can the chubby seal move from mom s basement to top meme coin rankings 
+2024-07-01 01:04:01,Viral Dogeverse Presale Nears $13M – Chain-Hopping Cosmo Brings Multibridge Utilities,https://u.today/,0.0,0.0,Neutral,viral dogeverse presale nears    m   chain hopping cosmo brings multibridge utilities
+2024-07-01 01:04:01,WienerAI: The Viral New Meme Coin Reignites AI Crypto Frenzy With Sausage Army,https://u.today/,0.13636363636363635,-0.3182,Neutral,wienerai  the viral new meme coin reignites ai crypto frenzy with sausage army
+2024-07-01 01:04:01,Multichain Meme Coin Dogeverse Hits $10M in Presale – Is it Too Late to Buy?,https://u.today/,-0.3,0.0,Neutral,multichain meme coin dogeverse hits    m in presale   is it too late to buy 
+2024-07-01 01:04:01,Traders Remain Bullish on Bitcoin Despite BTC Breaking Triangle Pattern; Are These Meme Coins a Good Buy On the Pullback?,https://u.today/,0.7,0.4404,Positive,traders remain bullish on bitcoin despite btc breaking triangle pattern  are these meme coins a good buy on the pullback 
+2024-07-01 01:04:01,"New Memecoin GODLEN Emerges, As BOME & DogWifHat Are Chasing New Gains",https://u.today/,0.13636363636363635,0.34,Negative,new memecoin godlen emerges  as bome   dogwifhat are chasing new gains
+2024-07-01 01:04:01,Stakingfarm Introduces New Passive Income Tools,https://u.today/,0.13636363636363635,0.2023,Neutral,stakingfarm introduces new passive income tools
+2024-07-01 01:04:01,WELL3 Revolutionizes Wellness with AI and DePIN Protocol Across Multiple Chains: Details,https://u.today/,0.0,0.6124,Positive,well  revolutionizes wellness with ai and depin protocol across multiple chains  details
+2024-07-01 01:04:01,Simple Ton Coin (SIMPL) Meme Coin on TON Blockchain Fairlaunched,https://u.today/,0.0,0.0,Neutral,simple ton coin  simpl  meme coin on ton blockchain fairlaunched
+2024-07-01 01:04:01,"UXLINK Telegram-Based App Completes NFT Distribution, Teases Token Airdrop",https://u.today/,0.0,-0.296,Neutral,uxlink telegram based app completes nft distribution  teases token airdrop
+2024-07-01 01:04:01,Sonic's Odyssey Testnet Reaches Major Milestone,https://u.today/,0.0625,0.0516,Positive,sonic s odyssey testnet reaches major milestone
+2024-07-01 01:04:01,"Xuirin Finance (XUIRIN) Bets on Social Media Presence, Launches Affiliate Program",https://u.today/,0.03333333333333333,0.0,Neutral,xuirin finance  xuirin  bets on social media presence  launches affiliate program
+2024-07-01 01:04:01,Running Archive Full Node for Blockchain Devs: Pros and Cons,https://u.today/,0.35,0.0,Neutral,running archive full node for blockchain devs  pros and cons
+2024-07-01 01:04:01,"XRP to Skyrocket Next Week? Ethereum (ETH) Not Losing $3,370, Will Solana (SOL) Reach $150 Again?",https://u.today/,0.0,0.3147,Neutral,xrp to skyrocket next week  ethereum  eth  not losing         will solana  sol  reach      again 
+2024-07-01 01:04:01,"Bitcoin (BTC) Can Hit $75,000, Here's How, Another XRP Reversal Attempt, Dogecoin (DOGE) to Test out $0.13 Again, But There's Catch",https://u.today/,0.0,0.0,Neutral,bitcoin  btc  can hit          here s how  another xrp reversal attempt  dogecoin  doge  to test out       again  but there s catch
+2024-07-01 01:04:01,"Ethereum (ETH) Bounce From $3,400 Imminent? Solana (SOL) Reversal Started: Here's Next Target, What's Happening With Shiba Inu (SHIB)?",https://u.today/,0.0,0.0,Neutral,ethereum  eth  bounce from        imminent  solana  sol  reversal started  here s next target  what s happening with shiba inu  shib  
+2024-07-01 01:04:01,"XRP to Skyrocket Next Week? Ethereum (ETH) Not Losing $3,370, Will Solana (SOL) Reach $150 Again?",https://u.today/,0.0,0.3147,Neutral,xrp to skyrocket next week  ethereum  eth  not losing         will solana  sol  reach      again 
+2024-07-01 01:04:01,"Bitcoin (BTC) Can Hit $75,000, Here's How, Another XRP Reversal Attempt, Dogecoin (DOGE) to Test out $0.13 Again, But There's Catch",https://u.today/,0.0,0.0,Neutral,bitcoin  btc  can hit          here s how  another xrp reversal attempt  dogecoin  doge  to test out       again  but there s catch
+2024-07-01 01:04:01,"Ethereum (ETH) Bounce From $3,400 Imminent? Solana (SOL) Reversal Started: Here's Next Target, What's Happening With Shiba Inu (SHIB)?",https://u.today/,0.0,0.0,Neutral,ethereum  eth  bounce from        imminent  solana  sol  reversal started  here s next target  what s happening with shiba inu  shib  
+2024-07-01 01:04:01,DOGE Price Prediction for June 30,https://u.today/,0.0,0.0,Neutral,doge price prediction for june   
+2024-07-01 01:04:01,SHIB Price Prediction for June 30,https://u.today/,0.0,0.0,Neutral,shib price prediction for june   
+2024-07-01 01:04:01,Toncoin (TON) Price Prediction for June 29,https://u.today/,0.0,0.0,Neutral,toncoin  ton  price prediction for june   
+2024-07-01 01:04:01,Bitcoin (BTC) Price Prediction for June 29,https://u.today/,0.0,0.0,Neutral,bitcoin  btc  price prediction for june   
+2024-07-01 01:04:01,Cardano (ADA) Price Prediction for June 28,https://u.today/,0.0,0.0,Neutral,cardano  ada  price prediction for june   
+2024-07-01 01:04:01,XRP Price Prediction for June 28,https://u.today/,0.0,0.0,Neutral,xrp price prediction for june   
+2024-07-01 01:04:01,"XRP to Skyrocket Next Week? Ethereum (ETH) Not Losing $3,370, Will Solana (SOL) Reach $150 Again?",https://u.today/,0.0,0.3147,Neutral,xrp to skyrocket next week  ethereum  eth  not losing         will solana  sol  reach      again 
+2024-07-01 01:04:01,Dogecoin (DOGE) Flashes Major Buy Singal: Analyst,https://u.today/,0.0625,0.0,Neutral,dogecoin  doge  flashes major buy singal  analyst
+2024-07-01 01:04:01,Here's How Rich Ethereum Founder Vitalik Buterin Really Is,https://u.today/,0.2875,0.5574,Neutral,here s how rich ethereum founder vitalik buterin really is
+2024-07-01 01:04:01,Shiba Inu (SHIB) Rival Issues Major Scam Alert: What Happened?,https://u.today/,0.0625,-0.3612,Neutral,shiba inu  shib  rival issues major scam alert  what happened 
+2024-07-01 01:04:01,Is XRP Security? SEC Veteran and XRP Advocate Sort Out,https://u.today/,-0.05,0.34,Neutral,is xrp security  sec veteran and xrp advocate sort out
+2024-07-01 01:04:01,Michael Saylor Declares Bitcoin's Next Wave Amid BTC Dull Market Action,https://u.today/,-0.0638888888888889,-0.4019,Neutral,michael saylor declares bitcoin s next wave amid btc dull market action
+2024-07-01 01:04:01,Vitalik Buterin Unveils Main Challenge of Crypto Regulation,https://u.today/,0.16666666666666666,0.0772,Neutral,vitalik buterin unveils main challenge of crypto regulation
+2024-07-01 01:04:01,Toncoin (TON) Hits Major 32 Million Milestone,https://u.today/,0.0625,0.0,Positive,toncoin  ton  hits major    million milestone
+2024-07-01 01:04:01,"Ripple Ruling Boosts Binance in SEC Showdown, Crypto Community Reacts",https://u.today/,-0.1,0.3182,Positive,ripple ruling boosts binance in sec showdown  crypto community reacts
+2024-07-01 01:04:01,Peter Thiel: Most of Bitcoin (BTC) Value Has Been Extracted,https://u.today/,0.5,0.34,Neutral,peter thiel  most of bitcoin  btc  value has been extracted
+2024-07-01 01:04:01,Solana Just Dethroned Ethereum in This Key Metric,https://u.today/,0.0,0.0,Neutral,solana just dethroned ethereum in this key metric
+2024-07-01 01:04:01,Ethereum Records Lowest Gas Prices Since 2016,https://u.today/,0.0,-0.3818,Negative,ethereum records lowest gas prices since     
+2024-07-01 01:04:01,Shiba Inu Skyrockets 243% Yet SHIB Price Not Moving,https://u.today/,0.0,0.0,Neutral,shiba inu skyrockets      yet shib price not moving
+2024-07-01 01:04:01,6.43 Trillion Shiba Inu (SHIB) in 24 Hours: What Happened?,https://u.today/,0.0,0.0,Neutral,     trillion shiba inu  shib  in    hours  what happened 
+2024-07-01 01:04:01,Ripple's Top Lawyer Celebrates Another SEC Loss,https://u.today/,0.2,0.4939,Negative,ripple s top lawyer celebrates another sec loss
+2024-07-01 01:04:01,41 Billion SHIB Mysteriously Sent to Leading US Exchanges – What's Happening?,https://u.today/,0.0,0.0,Neutral,   billion shib mysteriously sent to leading us exchanges   what s happening 
+2024-07-01 01:04:01,Bitcoin Price Reversal: Key Indicators and What Else to Look For,https://u.today/,0.0,0.0,Neutral,bitcoin price reversal  key indicators and what else to look for
+2024-07-01 01:04:01,Cardano Founder Shuts Down Critics in Major Clarification Update,https://u.today/,-0.04652777777777779,-0.296,Negative,cardano founder shuts down critics in major clarification update
+2024-07-01 01:04:01,$1.23 Billion in Bitcoin Moved in One Day: What Happened?,https://u.today/,0.0,0.0,Neutral,      billion in bitcoin moved in one day  what happened 
+2024-07-01 01:04:01,Cardano (ADA) Skyrockets 27% in Key Metric to Become Market Outlier,https://u.today/,0.0,0.0,Neutral,cardano  ada  skyrockets     in key metric to become market outlier
+2024-07-01 01:04:01,Crucial TREAT Alert Issued by SHIB Team to Community: Details,https://u.today/,0.0,0.5994,Neutral,crucial treat alert issued by shib team to community  details
+2024-07-01 01:04:01,Bitcoin Miners Capitulate as Hashrate Plunges to New Low,https://u.today/,0.06818181818181818,-0.2732,Neutral,bitcoin miners capitulate as hashrate plunges to new low
+2024-07-01 01:04:01,"Ripple CTO Joins XRP Community in Intriguing Debate, What Happened?",https://u.today/,0.30000000000000004,0.0,Neutral,ripple cto joins xrp community in intriguing debate  what happened 
+2024-07-01 01:04:01,"Shiba Inu Burn Rate Shoots up 1,072%, Is SHIB Ready for Next Leg Up?",https://u.today/,0.1,0.3612,Neutral,shiba inu burn rate shoots up         is shib ready for next leg up 
+2024-07-01 01:04:01,Coinbase CLO Uncovers SEC Stonewalling Antics,https://u.today/,-0.1,0.0,Neutral,coinbase clo uncovers sec stonewalling antics
+2024-07-01 01:04:01,"Bitcoin For $40,000? David Portnoy Shares New BTC Strategy",https://u.today/,0.13636363636363635,0.296,Neutral,bitcoin for          david portnoy shares new btc strategy
+2024-07-01 01:04:01,Shiba Inu Epic Comeback: Indicators Point to Possible SHIB Price Pivot,https://u.today/,0.05,0.0,Neutral,shiba inu epic comeback  indicators point to possible shib price pivot
+2024-07-01 01:04:01,Samson Mow Reveals What Will Happen to All Bitcoin Sales Now,https://u.today/,0.0,0.0,Neutral,samson mow reveals what will happen to all bitcoin sales now
+2024-07-01 01:04:01,Peter Schiff Has Some Bad News for Bitcoin ETF Investors,https://u.today/,-0.6999999999999998,-0.5423,Negative,peter schiff has some bad news for bitcoin etf investors
+2024-07-01 01:04:01,"'Rich Dad Poor Dad' Author Calls Bitcoin Fast Track Investment, Here’s What He Means",https://u.today/,0.05833333333333333,0.128,Neutral, rich dad poor dad  author calls bitcoin fast track investment  here s what he means
+2024-07-01 01:04:01,Arkham Calculates Vitalik Buterin’s Latest Net Worth,https://beincrypto.com/,0.26666666666666666,0.2263,Neutral,arkham calculates vitalik buterin s latest net worth
+2024-07-01 01:04:01,Floki Team Warns Against Scam Tokens on Solana and Base Networks,https://beincrypto.com/,-0.8,-0.6249,Neutral,floki team warns against scam tokens on solana and base networks
+2024-07-01 01:04:01,Shiba Inu (SHIB) Price to Benefit From the Potential Accumulation Ahead,https://beincrypto.com/,0.0,0.4588,Positive,shiba inu  shib  price to benefit from the potential accumulation ahead
+2024-07-01 01:04:01,Ethereum Co-Founder Vitalik Buterin Condemns US Approach to Utility Tokens,https://beincrypto.com/,0.0,-0.5106,Neutral,ethereum co founder vitalik buterin condemns us approach to utility tokens
+2024-07-01 01:04:01,6 Token Unlocks to Watch Next Week,https://beincrypto.com/,0.0,0.0,Neutral,  token unlocks to watch next week
+2024-07-01 01:04:01,BONK Price Returns to Consolidation Amid Growing Optimism,https://beincrypto.com/,0.0,0.6369,Positive,bonk price returns to consolidation amid growing optimism
+2024-07-01 01:04:01,NFT Market Slumps 45% in Q2 2024: CryptoSlam Data,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,nft market slumps     in q        cryptoslam data
+2024-07-01 01:04:01,OkayCoin Introduces Free Staking Platform for Investors,https://www.cryptotimes.io/category/market-news/,0.4,0.5106,Neutral,okaycoin introduces free staking platform for investors
+2024-07-01 01:04:01,Robert Kiyosaki Calls Bitcoin and Lithium High-Risk Investments,https://www.cryptotimes.io/category/market-news/,0.16,-0.2732,Neutral,robert kiyosaki calls bitcoin and lithium high risk investments
+2024-07-01 01:04:01,Hong Kong Regains Status as Crypto Hub as Crypto Firms Return Home,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,hong kong regains status as crypto hub as crypto firms return home
+2024-07-01 01:04:01,Nigeria’s Crypto Market is Valued at $400 Million – SEC Reports,https://www.cryptotimes.io/category/market-news/,-0.1,0.4404,Neutral,nigeria s crypto market is valued at      million   sec reports
+2024-07-01 01:04:01,India Wins ICC T20 Cricket World Cup 2024,https://www.cryptotimes.io/category/market-news/,0.3,0.5719,Positive,india wins icc t   cricket world cup     
+2024-07-01 01:04:01,"Solana Up 700% Last Year, Beats Bitcoin and Ethereum Growth",https://www.cryptotimes.io/category/market-news/,0.0,0.3818,Positive,solana up      last year  beats bitcoin and ethereum growth
+2024-07-01 01:04:01,Pi Network Advances Toward Open Mainnet with 12M KYC Verified Users,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Positive,pi network advances toward open mainnet with   m kyc verified users
+2024-07-01 01:04:01,SEC Delays Launch of Spot Ethereum ETFs Amid Regulatory Reviews,https://www.cryptotimes.io/category/market-news/,-0.1,0.0,Negative,sec delays launch of spot ethereum etfs amid regulatory reviews
+2024-07-01 01:04:01,Who will Win ICC World T20 Cricket World Cup? India Or SA,https://www.cryptotimes.io/category/market-news/,0.8,0.5859,Neutral,who will win icc world t   cricket world cup  india or sa
+2024-07-01 01:04:01,MicroStrategy Stock Soars 118% in Six Months,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,microstrategy stock soars      in six months
+2024-07-01 01:04:01,HKbitEX CEO: HK Crypto License Allows Crypto and STO Trading,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,hkbitex ceo  hk crypto license allows crypto and sto trading
+2024-07-01 01:04:01,Delta Exchange Launches Crypto Derivatives in Indian Market,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,delta exchange launches crypto derivatives in indian market
+2024-07-01 01:04:01,US Judge Refuses to Dismiss Claims against Binance,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,us judge refuses to dismiss claims against binance
+2024-07-01 01:04:01,Toncoin Secures AFSA Approval for Trading in Kazakhstan,https://www.cryptotimes.io/category/market-news/,0.0,0.6597,Positive,toncoin secures afsa approval for trading in kazakhstan
+2024-07-01 01:04:01,Hong Kong SFC Warns Against Virtual Asset Fraud by 3 Firms,https://www.cryptotimes.io/category/market-news/,0.0,-0.4019,Neutral,hong kong sfc warns against virtual asset fraud by   firms
+2024-07-01 01:04:01,Crypto Brokers to report sale-exchange of digital assets from 2025: IRS,https://www.cryptotimes.io/category/market-news/,0.0,0.1779,Neutral,crypto brokers to report sale exchange of digital assets from       irs
+2024-07-01 01:04:01,Pudgy Penguin Parent Firm Igloo Acquires Frame,https://www.cryptotimes.io/category/market-news/,-0.2,0.0,Neutral,pudgy penguin parent firm igloo acquires frame
+2024-07-01 01:04:01,"Supreme Court overturns Chevron Doctrine, curbs power of Federal Agencies",https://www.cryptotimes.io/category/market-news/,0.0,0.5574,Neutral,supreme court overturns chevron doctrine  curbs power of federal agencies
+2024-07-01 01:04:01,ConsenSys Defends MetaMask in Legal Battle with SEC,https://www.cryptotimes.io/category/market-news/,0.05,-0.2732,Neutral,consensys defends metamask in legal battle with sec
+2024-07-01 01:04:01,Coinbase Adds CFTC Regulated Futures for Five Altcoins,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,coinbase adds cftc regulated futures for five altcoins
+2024-07-01 01:04:01,SEC Files Lawsuit Against ConsenSys Over MetaMask Staking,https://www.cryptotimes.io/category/market-news/,-0.1,-0.2263,Negative,sec files lawsuit against consensys over metamask staking
+2024-07-01 01:04:01,Nostra CEO David Garai Resigns Post-Token Airdrop,https://www.cryptotimes.io/category/market-news/,0.0,-0.3182,Neutral,nostra ceo david garai resigns post token airdrop
+2024-07-01 01:04:01,PolitiFi Memecoins Dip Amid Biden-Trump Presidential Debate,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,politifi memecoins dip amid biden trump presidential debate
+2024-07-01 01:04:01,Trump’s Odds Soar to 64% After Biden Debate Performance,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Positive,trump s odds soar to     after biden debate performance
+2024-07-01 01:04:01,Indian Police Busted $16 Million in Max Crypto Trading Scam,https://www.cryptotimes.io/category/market-news/,0.0,-0.5719,Neutral,indian police busted     million in max crypto trading scam
+2024-07-01 01:04:01,Polymarket: Barron’s Role in $DJT ‘Conclusively’ Established,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,polymarket  barron s role in  djt  conclusively  established
+2024-07-01 01:04:01,Kraken CEO Jesse Powell Donates $1M in Crypto to Trump,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,kraken ceo jesse powell donates   m in crypto to trump
+2024-07-01 01:04:01,T-Rex Roars with 2X MicroStrategy ETF ‘Ghost Pepper’,https://www.cryptotimes.io/category/market-news/,0.0,-0.3182,Neutral,t rex roars with  x microstrategy etf  ghost pepper 
+2024-07-01 01:04:01,Binance Steps Up Compliance Efforts Against Account Misuse,https://www.cryptotimes.io/category/market-news/,0.0,0.0,Neutral,binance steps up compliance efforts against account misuse
