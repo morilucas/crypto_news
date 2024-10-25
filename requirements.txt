@@ -2,10 +2,10 @@ beautifulsoup4==4.10.0
 nltk==3.6.3
 pandas==2.2.3
 requests==2.26.0
-tensorflow==2.18.0
-tensorflow_intel==2.18.0
+tensorflow
+tensorflow_intel
 textblob==0.15.3
-torch==2.5.0
-torchaudio==2.5.0
-torchvision==0.20.0
-transformers==4.46.0
+torch
+torchaudio
+torchvision
+transformers
