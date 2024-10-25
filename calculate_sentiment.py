@@ -3,6 +3,7 @@ from textblob import TextBlob
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 from transformers import pipeline
+from datetime import datetime
 
 # Ensure the VADER lexicon is downloaded
 print("Downloading VADER lexicon...")
@@ -11,6 +12,14 @@ nltk.download('vader_lexicon')
 # Load CSV
 print("Loading CSV file...")
 df = pd.read_csv('scraped_data.csv')
+
+# Convert the 'date' column to datetime format (assuming there's a 'date' column in 'YYYY-MM-DD' format)
+df['date_scraped'] = pd.to_datetime(df['date_scraped'], errors='coerce')
+
+# Filter for today's date
+today = datetime.now().date()
+df = df[df['date_scraped'].dt.date == today]
+print(f"Filtered data for today's date: {today}")
 
 # Check and create sentiment columns if they do not exist
 print("Checking for existing sentiment columns...")
@@ -24,9 +33,9 @@ if 'FinBERT_sentiment' not in df.columns:
     df['FinBERT_sentiment'] = None
     print("Created FinBERT_sentiment column.")
 
-# Clean headlines (only for rows that are new and need sentiment analysis)
+# Clean headlines for sentiment analysis
 print("Cleaning headlines for new data entries...")
-df.loc[df['TextBlob_sentiment'].isna(), 'clean_headline'] = df.loc[df['TextBlob_sentiment'].isna(), 'headline'].str.replace("[^a-zA-Z]", " ").str.lower()
+df['clean_headline'] = df['headline'].str.replace("[^a-zA-Z]", " ").str.lower()
 
 # Initialize sentiment analyzers
 print("Initializing sentiment analyzers...")
@@ -46,14 +55,14 @@ def get_finbert_sentiment(text):
     results = finbert(text)
     return results[0]['label']
 
-# Apply sentiment analysis only to new rows
+# Apply sentiment analysis to all rows
 print("Applying sentiment analysis...")
-mask = df['TextBlob_sentiment'].isna()
-df.loc[mask, 'TextBlob_sentiment'] = df.loc[mask, 'clean_headline'].apply(get_textblob_sentiment)
-df.loc[mask, 'VADER_sentiment'] = df.loc[mask, 'clean_headline'].apply(get_vader_sentiment)
-df.loc[mask, 'FinBERT_sentiment'] = df.loc[mask, 'clean_headline'].apply(get_finbert_sentiment)
+df['TextBlob_sentiment'] = df['clean_headline'].apply(get_textblob_sentiment)
+df['VADER_sentiment'] = df['clean_headline'].apply(get_vader_sentiment)
+df['FinBERT_sentiment'] = df['clean_headline'].apply(get_finbert_sentiment)
 
-# Save the updated DataFrame to a new CSV
-print("Saving the updated data...")
-df.to_csv('scraped_data_w_sentiment.csv', index=False)
-print("Data saved successfully. Process completed.")
+# Save the updated DataFrame by appending to the existing CSV
+print("Appending the data to scraped_data_w_sentiment.csv...")
+df.to_csv('scraped_data_w_sentiment.csv', mode='a', index=False, header=False)
+print("Data appended successfully. Process completed.")
+
