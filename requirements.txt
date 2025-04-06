@@ -8,5 +8,5 @@ textblob==0.15.3
 torch
 torchaudio
 torchvision
-transformers
+transformers==4.38.2
 tf-keras
