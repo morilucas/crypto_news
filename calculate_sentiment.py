@@ -4,6 +4,7 @@ import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 from transformers import pipeline
 from datetime import datetime
+import os
 
 # Ensure the VADER lexicon is downloaded
 print("Downloading VADER lexicon...")
@@ -63,6 +64,11 @@ df['FinBERT_sentiment'] = df['clean_headline'].apply(get_finbert_sentiment)
 
 # Save the updated DataFrame by appending to the existing CSV
 print("Appending the data to scraped_data_w_sentiment.csv...")
-df.to_csv('scraped_data_w_sentiment.csv', mode='a', index=False, header=False)
+# Include headers if the file does not exist yet
+csv_file = 'scraped_data_w_sentiment.csv'
+if os.path.isfile(csv_file):
+    df.to_csv(csv_file, mode='a', index=False, header=False)
+else:
+    df.to_csv(csv_file, mode='w', index=False, header=True)
 print("Data appended successfully. Process completed.")
 
